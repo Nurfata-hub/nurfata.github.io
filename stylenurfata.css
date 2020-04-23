@@ -1,0 +1,172 @@
+
+
+.wrap{
+	
+	background: white;
+	width-max: 1920 x 1080px;
+	margin: 10px auto;
+}
+
+
+/*bagian header*/
+.wrap .header{
+	background: darkgreen;
+	
+	/*height: 50px;*/
+	padding: 2px 10px;
+	text-align:left;
+	max: 20px;
+        	font-weight:;
+       	color: yellow;
+	font-family:  vivaldi;
+	margin-bottom:5px;
+	line-height:5px;
+      	font-size: 20px;
+	text-align: center;
+	background-color:darkgreen ;
+	bottom: 200px;
+}
+
+
+.wrap .header2{
+ 
+	background: darkgreen;
+	/*height: 50px;*/
+	padding: 2px 10px;
+	text-align:left;
+        	font-weight:bold;
+       	color: yellow;
+	left:30px;
+	line-height:0px;
+	font-family:  vivaldi;
+      	font-size: 18px;
+	text-align: center;
+	margin-top:10px;
+	height: 97px;
+}
+
+
+/*akhir header*/
+ 
+/*bagian menu*/
+.wrap .menu{
+	background: white;
+}
+
+.wrap .menu ul{
+	padding: 0;
+	margin: 0;
+	background:lightGreen;
+	overflow: hidden;
+       	color: white;
+	font-size: 20px;
+	text-align: center;	
+	font-family:  Times New Roman;
+	margin-top:3px;
+}
+
+.wrap .menu ul li{
+	float: left;
+	list-style-type: none;
+	padding: 10px;
+}
+
+
+/*akhir menu*/
+ 
+.clear{
+	clear: both;
+	
+}
+
+
+.badan{
+	height: 450px;
+}
+
+
+/*bagian sidebar*/
+.wrap .badan .sidebar{
+	background: white;
+	float: left;	
+	width: 25%;
+	height: 450%;
+	font-family: Bodoni MT;
+	color:black;
+	text-align: center;
+	margin-top:40px;
+      	margin-bottom:5px;	
+}
+
+
+.wrap .profil{
+	font-family:times new roman;
+	color: Green;
+	text-align: Justify;
+	margin-top:40px;
+      	margin-bottom:5px;	
+}
+
+
+/*akhir sidebar*/
+ 
+.wrap .badan .content{
+	
+	background: Ghostwhite;
+	float: left;
+	height: 450%;
+	width: 75%;
+	text-align: center;
+	font-size: 23px;
+	font-family: algerian;
+	color: navy;
+	margin-top:40px;
+      	margin-bottom:5px;	
+	
+}
+
+.wrap .pondok{
+	text-align: center;
+	font-family: algerian;
+	color: black;
+	font-size: 18px;
+}
+
+.wrap .profil{
+	text-align: justify;
+	font-family: Times New Roman;
+	color:black;
+	font-size:15px;
+}
+
+.wrap .pendidikan{
+	text-align: center;
+	font-family: Times New Roman;
+	color:black;
+	font-size:15px;
+}
+
+.wrap .footer{
+	
+	background: black;
+	width-max: 1920 x 1080px;
+	padding: 10px;
+	text-align: center;
+	font-family: Bodoni MT;
+	color: blue;
+	margin-top:40px;
+      	margin-bottom:5px;
+	
+	}
+
+.wrap .footer2{
+	background:black;
+	width-max: 1920 x 1080px;
+	padding: 10px;
+	text-align: center;
+	font-family: Bodoni MT;
+	color: white;
+	margin-top:40px;
+      	margin-bottom:5px;
+	
+	}
